@@ -1,2 +1,2 @@
 # blocky boxes
- Blocky Boxes GitHub Repository
+ Blocky Boxes Alpha v2.0

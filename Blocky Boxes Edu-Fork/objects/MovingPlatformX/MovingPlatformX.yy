@@ -1,0 +1,48 @@
+{
+  "spriteId": {
+    "name": "BricksRotating",
+    "path": "sprites/BricksRotating/BricksRotating.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_DynamicParent",
+    "path": "objects/obj_DynamicParent/obj_DynamicParent.yy",
+  },
+  "physicsObject": true,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.0,
+  "physicsRestitution": 0.0,
+  "physicsLinearDamping": 1.0,
+  "physicsAngularDamping": 0.0,
+  "physicsFriction": 0.0,
+  "physicsStartAwake": false,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":256.0,"y":0.0,},
+    {"x":256.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
+  ],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":1,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"IsPlatformInReverse","tags":[],"resourceType":"GMObjectProperty",},
+  ],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "MovingPlatforms",
+    "path": "folders/Objects/DynamicBlocks/MovingPlatforms.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "MovingPlatformX",
+  "tags": [],
+  "resourceType": "GMObject",
+}
